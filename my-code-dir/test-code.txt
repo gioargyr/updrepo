@@ -1,8 +1,5 @@
 # This is a text file for testing purposes.
 
-Going for another commit :)
-
-Let's see some differences...
-Let's add automatically.
-
-This file is modified
+1	First commit of dev6
+2	Second commit of dev6
+3	Third commit of dev6
